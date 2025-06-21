@@ -1,9 +1,9 @@
-## Hi there 👋 
 
-¡Hola! 👋 Soy **Maximiliano**, un apasionado de la ciberseguridad y desarrollo.  
+
+¡Hola! 👋 Soy Max, un apasionado de la ciberseguridad y desarrollo.  
 - 🔭 Actualmente trabajo en proyectos de seguridad en redes  
 - 🌱 Aprendiendo Python avanzado y Cloud Security  
-- 📫 Contáctame: [tu@email.com](mailto:tu@email.com)  
+- 📫 Contáctame: [sidewiki@live.com.mx](mailto:tu@email.com)  
 - ⚡ Dato curioso: ¡Me encantan los CTF!  
 
 ## Badges
