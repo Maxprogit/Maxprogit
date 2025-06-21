@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-  <h1>¡Hola! 👋 Soy Maximiliano</h1>
+  <h1>¡Hola! 👋 Soy Max</h1>
   <h3>Desarrollador & Especialista en Ciberseguridad</h3>
   
   <p>
